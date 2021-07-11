@@ -32,7 +32,7 @@ namespace SeleniumCSharpNetCore
 
            
            
-            //Assert.Pass();
+            Assert.Pass();
         }
     }
 }
